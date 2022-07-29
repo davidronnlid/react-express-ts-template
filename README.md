@@ -3,7 +3,7 @@
 * Simple React app
 * Express server statically serves index.html from React (/client/build) folder
 * React app can fetch data from express server endpoints
-* React files (.tsx) are written in TypeScript
+* React files (.tsx) are not yet written in TypeScript, but TS npm dependencies have been added to the /client package.json 
 
 Production Demo:
 - Heroku: https://react-express-ts-app.herokuapp.com/

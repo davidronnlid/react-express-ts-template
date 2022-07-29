@@ -7,6 +7,6 @@
 
 Production Demo:
 - Heroku: https://react-express-ts-app.herokuapp.com/
-  - In local dev env, on local git branch "main", deploy to existing Heroku app from Heroku CLI with the following command: "git push heroku main"
+  - In local dev env, on local git branch named "main", deploy project to existing Heroku app from Heroku CLI with the following command: "git push heroku main"
    
 With inspiration from: https://www.freecodecamp.org/news/how-to-create-a-react-app-with-a-node-backend-the-complete-guide/
